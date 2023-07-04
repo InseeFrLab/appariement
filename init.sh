@@ -24,4 +24,4 @@ fi
 # Open the relevant notebook when starting Jupyter Lab
 jupyter server --generate-config
 sudo chown -R ${USERNAME}:${GROUPNAME} ${HOME}
-echo "c.LabApp.default_url = '/lab/tree/work/appariement/examples/tuto_$PACKAGE.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
+echo "c.LabApp.default_url = '/lab/tree/appariement/examples/tuto_$PACKAGE.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
