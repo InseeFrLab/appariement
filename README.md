@@ -1,11 +1,17 @@
 # Appariement de données individuelles sur traits d'identité
 Exemples d'appariements de données individuelles et ressources d'auto-formation
 
-## Données
+## :book: Documentation
+
+Un document pédagogique d'introduction aux appariements est disponible [sur le site de l'Insee](https://www.insee.fr/fr/statistiques/fichier/version-html/7644535/M2023-03.pdf).
+
+D'autres ressources introductives se trouvent également dans le dossier slides.
+
+## :chart_with_upwards_trend: Données
 
 Des données synthétiques de test sont disponibles dans le dossier data
 
-## Tutoriels
+## :computer: Tutoriels
 
 Des tutoriels, sous forme de notebooks, sont disponibles dans le dossier examples pour différents packages R et Python d'appariement :
 
